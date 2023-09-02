@@ -1,0 +1,15 @@
+/Users/danilshmelev/Documents/Geek brain education/C#/HomeWork Seminar_7/bin/Debug/net6.0/HomeWork Seminar_7
+/Users/danilshmelev/Documents/Geek brain education/C#/HomeWork Seminar_7/bin/Debug/net6.0/HomeWork Seminar_7.deps.json
+/Users/danilshmelev/Documents/Geek brain education/C#/HomeWork Seminar_7/bin/Debug/net6.0/HomeWork Seminar_7.runtimeconfig.json
+/Users/danilshmelev/Documents/Geek brain education/C#/HomeWork Seminar_7/bin/Debug/net6.0/HomeWork Seminar_7.dll
+/Users/danilshmelev/Documents/Geek brain education/C#/HomeWork Seminar_7/bin/Debug/net6.0/HomeWork Seminar_7.pdb
+/Users/danilshmelev/Documents/Geek brain education/C#/HomeWork Seminar_7/obj/Debug/net6.0/HomeWork Seminar_7.csproj.AssemblyReference.cache
+/Users/danilshmelev/Documents/Geek brain education/C#/HomeWork Seminar_7/obj/Debug/net6.0/HomeWork Seminar_7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danilshmelev/Documents/Geek brain education/C#/HomeWork Seminar_7/obj/Debug/net6.0/HomeWork Seminar_7.AssemblyInfoInputs.cache
+/Users/danilshmelev/Documents/Geek brain education/C#/HomeWork Seminar_7/obj/Debug/net6.0/HomeWork Seminar_7.AssemblyInfo.cs
+/Users/danilshmelev/Documents/Geek brain education/C#/HomeWork Seminar_7/obj/Debug/net6.0/HomeWork Seminar_7.csproj.CoreCompileInputs.cache
+/Users/danilshmelev/Documents/Geek brain education/C#/HomeWork Seminar_7/obj/Debug/net6.0/HomeWork Seminar_7.dll
+/Users/danilshmelev/Documents/Geek brain education/C#/HomeWork Seminar_7/obj/Debug/net6.0/refint/HomeWork Seminar_7.dll
+/Users/danilshmelev/Documents/Geek brain education/C#/HomeWork Seminar_7/obj/Debug/net6.0/HomeWork Seminar_7.pdb
+/Users/danilshmelev/Documents/Geek brain education/C#/HomeWork Seminar_7/obj/Debug/net6.0/HomeWork Seminar_7.genruntimeconfig.cache
+/Users/danilshmelev/Documents/Geek brain education/C#/HomeWork Seminar_7/obj/Debug/net6.0/ref/HomeWork Seminar_7.dll
